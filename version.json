@@ -1,8 +1,22 @@
 {
-  "version": "1.9.1",
-  "url": "https://github.com/0000TVshareU0000/dudou-releases/releases/download/v1.9.1/app.asar",
-  "size": 2149473,
-  "changelog": "v1.9.1: 统一品牌Logo + 隐藏更新地址 + 去除DevTools",
+  "version": "1.9.2",
+  "url": "https://github.com/0000TVshareU0000/dudou-update/releases/download/v1.9.2/app.asar.new",
+  "size": 2100000,
+  "changelog": "自动下载视频工具依赖，首次运行无需预装Python",
   "minVersion": "1.0.0",
-  "releaseDate": "2026-06-30"
+  "releaseDate": "2026-06-30",
+  "videoTools": {
+    "version": "1.0.0",
+    "changelog": "视频下载工具独立包（免Python环境）",
+    "files": {
+      "video-server.exe": {
+        "url": "https://github.com/0000TVshareU0000/dudou-update/releases/download/v1.9.2/video-server.exe",
+        "size": 11534336
+      },
+      "video-downloader.exe": {
+        "url": "https://github.com/0000TVshareU0000/dudou-update/releases/download/v1.9.2/video-downloader.exe",
+        "size": 11534336
+      }
+    }
+  }
 }
