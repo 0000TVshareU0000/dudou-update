@@ -1,23 +1,7 @@
 {
-  "version": "1.9.5",
-  "changelog": "新增视频工具下载进度界面、断点续传和SHA256校验功能",
-  "url": "https://github.com/0000TVshareU0000/dudou-update/releases/download/v1.9.5/app.asar.new",
-  "size": 2100000,
-  
-  "videoTools": {
-    "version": "1.0.0",
-    "changelog": "视频下载工具独立包（免Python环境），支持断点续传和SHA256校验",
-    "files": {
-      "video-server.exe": {
-        "url": "https://github.com/0000TVshareU0000/dudou-update/releases/download/v1.9.5/video-server.exe",
-        "size": 11534336,
-        "sha256": "90ef2e2364b771ee2a2fbb39be49683b4c85703c08bf2a40bfd954c927514ff1"
-      },
-      "video-downloader.exe": {
-        "url": "https://github.com/0000TVshareU0000/dudou-update/releases/download/v1.9.5/video-downloader.exe",
-        "size": 11534336,
-        "sha256": "2a243e6ac1d46661c69bde9439347d286b38fe7618bc63dbe0763a31dd6f9b61"
-      }
-    }
-  }
+  "version": "v1.9.5",
+  "url": "https://github.com/0000TVshareU0000/dudou-releases/releases/download/v1.9.5/app.asar",
+  "size": 57482240,
+  "releaseDate": "2026-07-01",
+  "changelog": "修复更新安装机制；优化启动检查流程；修复导航按钮切换问题"
 }
