@@ -3,5 +3,5 @@
   "url": "https://github.com/0000TVshareU0000/dudou-releases/releases/download/v1.9.5/app.asar",
   "size": 57482240,
   "releaseDate": "2026-07-01",
-  "changelog": "修复更新安装机制；优化启动检查流程；修复导航按钮切换问题"
+  "changelog": "修复更新安装机制（彻底重写）；修复导航按钮切换问题；优化启动检查流程；新增更新下载进度界面"
 }
