@@ -1,19 +1,19 @@
 {
-  "version": "1.9.5",
-  "changelog": "新增视频工具下载进度界面、断点续传和SHA256校验功能",
-  "url": "https://github.com/0000TVshareU0000/dudou-update/releases/download/v1.9.5/app.asar.new",
-  "size": 57434558,
+  "version": "1.9.7",
+  "changelog": "v1.9.7: 测试版本 - 优化更新体验，修复重启流程，新增更新进度可视化",
+  "url": "https://github.com/0000TVshareU0000/dudou-update/releases/download/v1.9.7/app.asar.new",
+  "size": 57393050,
   "videoTools": {
     "version": "1.0.0",
     "changelog": "视频下载工具独立包（免Python环境），支持断点续传和SHA256校验",
     "files": {
       "video-server.exe": {
-        "url": "https://github.com/0000TVshareU0000/dudou-update/releases/download/v1.9.5/video-server.exe",
+        "url": "https://dudou-update-1449018869.cos.ap-guangzhou.myqcloud.com/video-server.exe",
         "size": 11534336,
         "sha256": "90ef2e2364b771ee2a2fbb39be49683b4c85703c08bf2a40bfd954c927514ff1"
       },
       "video-downloader.exe": {
-        "url": "https://github.com/0000TVshareU0000/dudou-update/releases/download/v1.9.5/video-downloader.exe",
+        "url": "https://dudou-update-1449018869.cos.ap-guangzhou.myqcloud.com/video-downloader.exe",
         "size": 11534336,
         "sha256": "2a243e6ac1d46661c69bde9439347d286b38fe7618bc63dbe0763a31dd6f9b61"
       }
