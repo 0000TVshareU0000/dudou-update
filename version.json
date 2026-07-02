@@ -1,11 +1,11 @@
 {
-  "version": "1.9.21",
-  "changelog": "v1.9.21: 安全加固版本 — 代码混淆、凭证环境变量化、SHA256签名验证、CSP收紧、反调试检测、COS上传启用MD5校验",
+  "version": "1.9.22",
+  "changelog": "v1.9.22: 品牌升级为 DoudouAI Studio，全新透明背景立方体图标，应用于桌面/任务栏/系统托盘，保留安全加固全部特性",
   "url": "https://dudou-update-1449018869.cos.ap-guangzhou.myqcloud.com/app.asar.new",
-  "size": 2291875,
+  "size": 2283933,
   "videoTools": {
     "version": "1.0.0",
     "url": "https://dudou-update-1449018869.cos.ap-guangzhou.myqcloud.com/deps/DUDOU-AI-VideoDeps-Setup-v1.0.0.exe"
   },
-  "sha256": "7b5987dd86542b2dcac73be638aa9407d49438e531f7a5155cc4b28fd21bffca"
+  "sha256": "6347987d949c65a3bc9052ea7ac2085c23537a6f02d093e5809f45ab5bcbc394"
 }
