@@ -1,22 +1,11 @@
 {
-  "version": "1.9.7",
-  "changelog": "v1.9.7: 测试版本 - 优化更新体验，修复重启流程，新增更新进度可视化",
-  "url": "https://github.com/0000TVshareU0000/dudou-update/releases/download/v1.9.7/app.asar.new",
-  "size": 57393050,
+  "version": "1.9.21",
+  "changelog": "v1.9.21: 安全加固版本 — 代码混淆、凭证环境变量化、SHA256签名验证、CSP收紧、反调试检测、COS上传启用MD5校验",
+  "url": "https://dudou-update-1449018869.cos.ap-guangzhou.myqcloud.com/app.asar.new",
+  "size": 2291875,
   "videoTools": {
     "version": "1.0.0",
-    "changelog": "视频下载工具独立包（免Python环境），支持断点续传和SHA256校验",
-    "files": {
-      "video-server.exe": {
-        "url": "https://dudou-update-1449018869.cos.ap-guangzhou.myqcloud.com/video-server.exe",
-        "size": 11534336,
-        "sha256": "90ef2e2364b771ee2a2fbb39be49683b4c85703c08bf2a40bfd954c927514ff1"
-      },
-      "video-downloader.exe": {
-        "url": "https://dudou-update-1449018869.cos.ap-guangzhou.myqcloud.com/video-downloader.exe",
-        "size": 11534336,
-        "sha256": "2a243e6ac1d46661c69bde9439347d286b38fe7618bc63dbe0763a31dd6f9b61"
-      }
-    }
-  }
+    "url": "https://dudou-update-1449018869.cos.ap-guangzhou.myqcloud.com/deps/DUDOU-AI-VideoDeps-Setup-v1.0.0.exe"
+  },
+  "sha256": "7b5987dd86542b2dcac73be638aa9407d49438e531f7a5155cc4b28fd21bffca"
 }
